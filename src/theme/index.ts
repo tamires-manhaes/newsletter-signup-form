@@ -2,10 +2,10 @@ import { Theme } from '@/theme/types';
 
 const theme: Theme = {
   colors: {
-    primary: '#6200EE',
-    secondary: '#3700B3',
-    accentColor: '#BB86FC',
-    background: '#CECECE',
+    primary: '#242742',
+    secondary: '#36384e',
+    accentColor: '#ff6257',
+    background: '#9294a0',
     common: {
       black: '#000',
       white: '#fff'
