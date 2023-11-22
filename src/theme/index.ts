@@ -1,4 +1,4 @@
-import { Theme } from '@/theme/types';
+import { Theme } from './types';
 
 const theme: Theme = {
   colors: {
@@ -18,7 +18,7 @@ const theme: Theme = {
       letterSpacing: '-0.5px',
     },
     subtitle: {
-      fontSize: '16px',
+      fontSize: '36px',
       fontWeight: 500,
       letterSpacing: '0.15px'
     },

@@ -1,9 +1,9 @@
 import type { SerializedStyles } from '@emotion/react';
-import type { Theme } from '@/theme';
-import useThemeContext from '@/contexts/Theme/useThemeContext';
+import type { Theme } from '../theme';
+export { css } from '@emotion/react';
+import useThemeContext from '../contexts/Theme/useThemeContext';
 import { useMemo } from 'react';
 import clone from 'clone-deep';
-export { css } from '@emotion/react';
 
 
 export type UseStylesType <
