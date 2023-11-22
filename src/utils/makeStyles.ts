@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import type { SerializedStyles } from '@emotion/react';
 import type { Theme } from '../theme';
 export { css } from '@emotion/react';

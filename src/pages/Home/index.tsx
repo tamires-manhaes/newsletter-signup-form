@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import { FunctionComponent, useState } from 'react';
 import useStyles from './styles';
 import illustration from '../../assets/illustration-sign-up-desktop.svg';

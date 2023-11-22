@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import Feedback from "../pages/Feedback";
 import Home from "../pages/Home";
 import { FunctionComponent } from "react";

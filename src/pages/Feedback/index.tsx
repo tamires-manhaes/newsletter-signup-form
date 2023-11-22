@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import { FunctionComponent } from "react";
 import useStyles from "./styles";
 import checkIcon from '../../assets/icon-success.svg';

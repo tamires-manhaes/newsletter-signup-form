@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import Router from './routes';

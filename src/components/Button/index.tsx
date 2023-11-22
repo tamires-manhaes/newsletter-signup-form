@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import { FunctionComponent } from "react"
 import { ButtonProps } from "./types"
 import useStyles from "./styles"

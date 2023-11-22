@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+/** @jsx jsx */
 import React, { FunctionComponent, ReactNode, useMemo } from 'react';
 import { ThemeProvider as EmotionThemeProvider, useTheme } from '@emotion/react';
 
