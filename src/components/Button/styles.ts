@@ -1,8 +1,7 @@
 import { makeStyles, css } from '../../utils/makeStyles';
-import { ButtonProps } from './types';
 
 const useStyles = makeStyles<{
-  fullWidth: ButtonProps['fullWidth'];
+  fullWidth?: boolean;
 }>({
   root: ({spacing, colors, borderRadius}, {fullWidth}) => css`
     margin-top: ${spacing(2)}px;
